@@ -9,10 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String a = "V2.0.0";
-        String b = "V2.0.0临时版本";
-        String c = "V2.0.0临时版本";
-        String d = "V2.0.0临时版本";
-
+        String a = "提交3.0.0";
     }
 }

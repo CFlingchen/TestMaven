@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String a = "提交3.0.1 临时版本   知道里面的错误 我立马解决了";
+        String a = "V3.0.0";
     }
 }

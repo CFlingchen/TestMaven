@@ -10,5 +10,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String a = "V2.0.0";
+        String b = "V2.0.0临时版本";
+
     }
 }
